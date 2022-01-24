@@ -1,0 +1,11 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+  }
+  
+  .sign {
+    padding: 10px;
+    font-size: 30px;
+    cursor: pointer;
+  }
